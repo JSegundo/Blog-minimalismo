@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Ubuntu:wght@300;400;700&display=swap');
+
+body {
+    font-size: 1.25rem;
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    line-height: 30px;
+    color: #707070;
+}
+
+$color-primario :#143774;
+$color-secundario:#1792d2;
+$color-contraste:#707070;

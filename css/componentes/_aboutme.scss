@@ -1,0 +1,16 @@
+.aboutme-page-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.aboutme-article {
+    h3 {
+        color: $color-secundario;
+        font-weight: 400;
+    }
+
+    p {
+        color: #707070;
+    }
+}
